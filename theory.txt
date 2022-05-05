@@ -1,0 +1,35 @@
+git hub
+it is a central repository which is present in the cloud where project management takes 
+place.it is also called version control.people can upload or download files to the central 
+repository or download to the local repository through a remote location.the only thing that 
+irs required is internet
+
+git bash
+it is alos knows as local repository
+it is your own computer
+it is used to clone the repository present in the central repository
+when the work is done we can push or pull files to cental repositoryusing git bash
+it is based on linux kenrnal
+
+bit bash
+it ia also a central repository. project management tool with more feature than git hub and 
+also many integrations like jira. bit is competion for github
+
+algorith for push
+first create a repository in git
+copy the http link of the repository
+open git bash
+go to directory
+clone the repository
+create a file
+add instructions to add file
+type comments
+enter the push to push files
+
+algorith for pull
+
+after cloning repository
+create a file inthe central repository
+now just type the command git pull
+till will clone all the files inthe central repository
+
